@@ -1,7 +1,3 @@
-
-
-
-
 # Interactive Image Colorizer
 
 An AI-powered web application that automatically colorizes grayscale images and allows users to interactively recolor detected objects while preserving realistic shading and textures.
@@ -64,11 +60,12 @@ Download the model from:
 
 https://drive.google.com/drive/folders/1nSunaWGLzoevZWdLnJKC4V3LB9jbwOIE?usp=sharing
 
-After downloading, place the file in:
+After downloading, place it in:
 
-```text
-model/colorization_release_v2.caffemodel
-```
+model/
+├── colorization_release_v2.caffemodel
+├── colorization_deploy_v2.prototxt
+└── pts_in_hull.npy
 
 ## Installation
 

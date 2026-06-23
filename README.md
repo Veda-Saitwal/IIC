@@ -72,7 +72,7 @@ model/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Interactive-Image-Colorizer.git
+git clone https://github.com/Veda-Saitwal/Interactive-Image-Colorizer.git
 cd Interactive-Image-Colorizer
 ```
 
